@@ -13,7 +13,9 @@ RMdemo是RM上层代码（包括视觉处理）框架例程demo。机器人需�
 ### b.实现功能
 
 * 基本程序框架（基于状态机模型）
-* 基本外设控制模块（串口通信模块，usb免驱ov2710摄像头模块）
+* 基本外设控制模块
+  * [串口通信模块](libHardWare/serialPort)
+  * [usb免驱ov2710摄像头模块](libHardWare/usbCapture)
 
 ### b.详细文档
 
