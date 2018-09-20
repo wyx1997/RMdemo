@@ -31,7 +31,7 @@ RMdemo是RM上层代码（包括视觉处理）框架例程demo。机器人需�
 %YAML:1.1
 robot_id: 1
 #1 define enemy is red......0 define enemy is blue.
-enemy_is_red : 2
+enemy_is_red : 0
 #dev path
 serial_path: "/dev/ttyUSB0"
 capture_path : "/dev/video0"
