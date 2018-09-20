@@ -37,20 +37,20 @@ capture_path : "/dev/xRMVideo" ##摄像头路径
 
 ### b.编译与运行
 
-__新建编译目录__
+**新建编译目录**
 
 ```bash
 mkdir build & cd build
 ```
 
-__编译__
+**编译**
 
 ```bash
 cmake ..
 make 
 ```
 
-__运行 __
+**运行**
 
 ```bash
 ./example
