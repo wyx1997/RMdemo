@@ -17,7 +17,7 @@ RMdemo是RoboMaster机器人上层代码（主要为视觉处理）框架例程d
   * [串口通信模块](libHardWare/serialPort)
   * [usb免驱ov2710摄像头模块](libHardWare/usbCapture)
 
-### b.详细文档
+### c.详细文档
 
 * 框架说明文档：[框架文档](doc/framework_CN.md)
 
